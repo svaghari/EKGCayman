@@ -1,0 +1,34 @@
+# ECG Case 003
+
+Middle-aged diabetic patient presenting with shortness of breath. Clinical evidence of pulmonary oedema.
+
+![](https://litfl.com/wp-content/uploads/2018/08/TOP-100-ECQ-QUIZ-LITFL-003.jpg)
+
+ECG ANSWER and INTERPRETATION
+
+
+**Main Abnormal Findings**
+- [Severe bradycardia](https://litfl.com/sinus-bradycardia-ecg-library/) of 36 bpm
+- Rhythm is difficult to ascertain — appears irregular (?slow AF) although there are some small-voltage P waves seen in V1-2
+- Broad QRS complexes with an [atypical LBBB morphology](https://litfl.com/left-bundle-branch-block-lbbb-ecg-library/)
+- Subtle symmetrical peaking (“tenting”) of the T waves in V2-5
+
+
+**Diagnosis**
+
+
+The combination of bradycardia, flattening and loss of P waves, QRS broadening and T wave abnormalities is highly suspicious for severe [hyperkalaemia.](https://litfl.com/hyperkalaemia-ecg-library/) This patient had a potassium of 8.0 in the context of anuric renal failure.
+
+CLINICAL PEARLS
+
+
+When you see the combination of…
+- Bradycardia
+- Blocks — e.g. AV block, bundle branch blocks
+- Bizarre QRS complexes
+
+
+…. think [hyperkalaemia](https://litfl.com/hyperkalaemia-ecg-library/)!The push-pull effect![](https://litfl.com/wp-content/uploads/2021/04/PushPull-K-ECG.png)
+- Hypokalaemia creates the illusion that the T wave is “pushed down”, with resultant T-wave flattening/inversion, ST depression, and prominent U waves
+- In hyperkalaemia, the T wave is “pulled upwards”, creating tall “tented” T waves, and stretching the remainder of the ECG to cause P wave flattening, PR prolongation, and QRS widening
+

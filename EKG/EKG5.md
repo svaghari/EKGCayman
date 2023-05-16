@@ -1,0 +1,60 @@
+# ECG Case 005
+
+The following sequence of ECGs is taken from a middle-aged patient presenting with chest pain and diaphoresis. Can you interpret each ECG tracing in the context of the patient’s symptoms?
+
+![](https://litfl.com/wp-content/uploads/2018/08/TOP-100-ECG-QUIZ-LITFL-005-1.jpg)
+
+ECG ANSWER and INTERPRETATION
+
+
+This ECG demonstrates an evolving [anterolateral STEMI](https://litfl.com/anterior-myocardial-infarction-ecg-library/):
+- ST elevation in V2-5 and aVL
+- Reciprocal ST depression in III and aVF
+- Pathological Q waves in V2-3
+- Hyperacute T waves in V2-4 and I
+
+ECG ANSWER and INTERPRETATION
+
+
+There is transient improvement in the ST changes, with development of biphasic T waves in V2-3.
+
+
+This pattern of T wave changes in V2-3 is known as [Wellens syndrome](https://litfl.com/wellens-syndrome-ecg-library/) and indicates reperfusion of a previously occluded LAD artery.
+
+
+The implication of this ECG pattern is that there is an underlying critical LAD stenosis that requires emergent reperfusion, ideally via percutaneous coronary intervention.
+
+ECG ANSWER and INTERPRETATION
+
+
+The previously biphasic T waves are now upright again — this phenomenon is referred to as [pseudonormalisation](https://hqmeded-ecg.blogspot.com.au/2014/03/pseudonormalization.html) and is a marker of re-occlusion of the culprit artery.
+
+
+Despite temporary restoration of blood flow in ECG 5b, the patient is now re-infarcting!
+
+ECG ANSWER and INTERPRETATION
+
+
+This ECG demonstrates a frank [anterolateral STEMI](https://litfl.com/anterior-myocardial-infarction-ecg-library/) with evolving ST changes.
+
+
+This patient had a VF arrest shortly after this ECG was taken, was placed on a mechanical CPR device and taken immediately to the cath lab where she was found to have a 100% proximal LAD occlusion. She was stented, successfully cardioverted and made a good neurological recovery.
+
+CLINICAL PEARLS
+
+
+There are two patterns of T-wave abnormality seen in Wellens syndrome:
+- **Type A** – Biphasic, with initial positivity and terminal negativity (25% of cases)
+- **Type B** – Deeply and symmetrically inverted (75% of cases)
+
+
+These changes evolve with time after reperfusion. The type A pattern is most commonly seen in patients with spontaneous reperfusion of an occluded LAD, as was the case above.
+
+
+‘Pseudonormalisation’ of T waves may be the first sign of **[Occlusion Myocardial Infarction](https://litfl.com/omi-replacing-the-stemi-misnomer/)** (OMI) in patients with Wellens syndrome
+
+Further readingRelated topics
+- [Wellens syndrome](https://litfl.com/wellens-syndrome-ecg-library/)
+- [Anterior STEMI](https://litfl.com/anterior-myocardial-infarction-ecg-library/)
+- [Occlusion Myocardial Infarction](https://litfl.com/omi-replacing-the-stemi-misnomer/)
+
